@@ -1,0 +1,1 @@
+This shiny app visualises data from an online learning platform (Oefenweb). It uses multiple panels and tabs to allow for varied and detailed visualisations. It calculates various psychometrically informed metrics. The data that was used however is proprietory (Oefenweb). 
